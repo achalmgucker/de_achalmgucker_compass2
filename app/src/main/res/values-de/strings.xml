@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompass</string>
+    <string name="comp_unrel">Kompass unzuverlässig</string>
+    <string name="comp_lowacc">Geringe Genauigkeit</string>
+    <string name="comp_medacc">Mittlere Genauigkeit</string>
+    <string name="comp_hiacc">Hohe Genauigkeit</string>
+    <string name="desc_needle">Kompasnadel</string>
+    <string name="info_nocompass">Kein Kompass vorhanden</string>
+    <string name="about_text1">
+        Diese Kompass-App zeigt die einfache Verwendung des Beschleunigungssensors und
+        des Magnetfeldsensors.
+
+        © Copyright 2021 by Wolfram Liebchen, Eningen, Deutschland.
+    </string>
+</resources>

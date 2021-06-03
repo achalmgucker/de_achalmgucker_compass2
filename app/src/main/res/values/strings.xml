@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="comp_unrel">Compass unreliable</string>
+    <string name="comp_lowacc">Low accuracy</string>
+    <string name="comp_medacc">Medium accuracy</string>
+    <string name="comp_hiacc">High accuracy</string>
+
+    <string name="desc_needle">compass needle</string>
+
+    <string name="info_nocompass">No compass available</string>
+
+    <string name="about_text1">This compass app demonstrates the easy usage of the sensors
+        for acceleration and the magnetic field.
+
+        © Copyright 2021 by Wolfram Liebchen, Eningen, Deutschland.
+    </string>
+</resources>
